@@ -366,3 +366,6 @@ tags
 .ionide
 
 # End of https://www.toptal.com/developers/gitignore/api/linux,vim,visualstudiocode,tex
+
+# CTAN archive
+*.zip
